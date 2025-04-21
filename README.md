@@ -29,7 +29,6 @@ This repo contains assignments and projects for **Web Application Development** 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
 ## 🚀 Cara Pakai | How to Use
@@ -42,5 +41,3 @@ git clone https://github.com/Azdetic/WAD-Course.git
 
 2. Pakai web server lokal (XAMPP) | Use local web server (XAMPP)
 3. Buka di browser | Open in browser: `localhost`
-
-## ⭐ Beri bintang ya! | Please star! ⭐
