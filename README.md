@@ -37,7 +37,7 @@ This repo contains assignments and projects for **Web Application Development** 
 1. Clone repo ini | Clone this repo:
 
 ```bash
-git clone https://github.com/username/WAD.git
+git clone https://github.com/Azdetic/WAD-Course.git
 ```
 
 2. Pakai web server lokal (XAMPP) | Use local web server (XAMPP)
